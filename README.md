@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SimplePlatformer
-=======
 # SimplePlatformer
 
 ### Gotot Engine
